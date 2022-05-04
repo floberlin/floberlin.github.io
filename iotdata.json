@@ -1,0 +1,1426 @@
+[
+  {
+    "ID": "00C109F0EFC167021800D1CA813B91F4",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"humidity\":46,\"temperature\":21}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-15 00:30:30.8080000"
+  },
+  {
+    "ID": "708009F0EFC167021800D1CA813B91F4",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"humidity\":45,\"temperature\":21}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-15 00:00:26.0600000"
+  },
+  {
+    "ID": "0C4009F0EFC167021800D1CA813B91F4",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"temperature\":21,\"humidity\":47}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-14 23:30:24.7270000"
+  },
+  {
+    "ID": "A6FF08F0EFC167021800D1CA813B91F4",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"humidity\":48,\"temperature\":22}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-14 23:00:25.1210000"
+  },
+  {
+    "ID": "0FBF08F0EFC167021800D1CA813B91F4",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"humidity\":47,\"temperature\":21}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-14 22:30:24.2530000"
+  },
+  {
+    "ID": "C07E08F0EFC167021800D1CA813B91F4",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"temperature\":21,\"humidity\":46}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-14 22:00:26.7520000"
+  },
+  {
+    "ID": "3C3E08F0EFC167021800D1CA813B91F4",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"temperature\":22,\"humidity\":48}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-14 21:30:24.0370000"
+  },
+  {
+    "ID": "C2FD07F0EFC167021800D1CA813B91F4",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"humidity\":48,\"temperature\":22}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-14 21:00:25.1940000"
+  },
+  {
+    "ID": "66BD07F0EFC167021800D1CA813B91F4",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"humidity\":48,\"temperature\":22}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-14 20:30:26.8890000"
+  },
+  {
+    "ID": "D77C07F0EFC167021800D1CA813B91F4",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"humidity\":47,\"temperature\":22}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-14 20:00:24.7250000"
+  },
+  {
+    "ID": "6C3C07F0EFC167021800D1CA813B91F4",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"temperature\":21,\"humidity\":47}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-14 19:30:24.7980000"
+  },
+  {
+    "ID": "F9FB06F0EFC167021800D1CA813B91F4",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"humidity\":46,\"temperature\":21}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-14 19:00:25.2380000"
+  },
+  {
+    "ID": "70BB06F0EFC167021800D1CA813B91F4",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"humidity\":46,\"temperature\":22}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-14 18:30:23.9950000"
+  },
+  {
+    "ID": "1F7B06F0EFC167021800D1CA813B91F4",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"humidity\":45,\"temperature\":22}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-14 18:00:27.5920000"
+  },
+  {
+    "ID": "793A06F0EFC167021800D1CA813B91F4",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"temperature\":22,\"humidity\":46}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-14 17:30:24.0610000"
+  },
+  {
+    "ID": "09FA05F0EFC167021800D1CA813B91F4",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"temperature\":22,\"humidity\":45}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-14 17:00:25.5680000"
+  },
+  {
+    "ID": "96B905F0EFC167021800D1CA813B91F4",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"temperature\":22,\"humidity\":45}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-14 16:30:24.6520000"
+  },
+  {
+    "ID": "237905F0EFC167021800D1CA813B91F4",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"temperature\":22,\"humidity\":44}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-14 16:00:26.4190000"
+  },
+  {
+    "ID": "A13805F0EFC167021800D1CA813B91F4",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"humidity\":45,\"temperature\":22}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-14 15:30:24.2870000"
+  },
+  {
+    "ID": "51F804F0EFC167021800D1CA813B91F4",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"temperature\":22,\"humidity\":45}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-14 15:00:29.8460000"
+  },
+  {
+    "ID": "9AB704F0EFC167021800D1CA813B91F4",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"temperature\":22,\"humidity\":45}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-14 14:30:25.1700000"
+  },
+  {
+    "ID": "813504F0EFC167021800D1CA813B91F4",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"humidity\":45,\"temperature\":22}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-14 13:30:25.7040000"
+  },
+  {
+    "ID": "AFF303F0EFC167021800D1CA813B91F4",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"temperature\":22,\"humidity\":43}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-14 13:00:25.6460000"
+  },
+  {
+    "ID": "9CB203F0EFC167021800D1CA813B91F4",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"temperature\":22,\"humidity\":44}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-14 12:30:25.0360000"
+  },
+  {
+    "ID": "9F7103F0EFC167021800D1CA813B91F4",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"temperature\":23,\"humidity\":43}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-14 12:00:24.1970000"
+  },
+  {
+    "ID": "0C3103F0EFC167021800D1CA813B91F4",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"temperature\":23,\"humidity\":46}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-14 11:30:24.7330000"
+  },
+  {
+    "ID": "9EF002F0EFC167021800D1CA813B91F4",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"temperature\":23,\"humidity\":42}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-14 11:00:27.2310000"
+  },
+  {
+    "ID": "43AF02F0EFC167021800D1CA813B91F4",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"temperature\":23,\"humidity\":47}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-14 10:30:24.8670000"
+  },
+  {
+    "ID": "292E02F0EFC167021800D1CA813B91F4",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"humidity\":40,\"temperature\":23}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-14 09:30:24.9670000"
+  },
+  {
+    "ID": "B2ED01F0EFC167021800D1CA813B91F4",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"humidity\":38,\"temperature\":23}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-14 09:00:26.2060000"
+  },
+  {
+    "ID": "F6AC01F0EFC167021800D1CA813B91F4",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"humidity\":41,\"temperature\":23}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-14 08:30:24.3260000"
+  },
+  {
+    "ID": "AF6B01F0EFC167021800D1CA813B91F4",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"temperature\":22,\"humidity\":38}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-14 08:00:24.3730000"
+  },
+  {
+    "ID": "152B01F0EFC167021800D1CA813B91F4",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"humidity\":39,\"temperature\":22}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-14 07:30:24.3470000"
+  },
+  {
+    "ID": "A9EA00F0EFC167021800D1CA813B91F4",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"humidity\":38,\"temperature\":22}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-14 07:00:25.5820000"
+  },
+  {
+    "ID": "7BA900F0EFC167021800D1CA813B91F4",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"humidity\":40,\"temperature\":22}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-14 06:30:25.7130000"
+  },
+  {
+    "ID": "026800F0EFC167021800D1CA813B91F4",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"temperature\":21,\"humidity\":38}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-14 06:00:24.2640000"
+  },
+  {
+    "ID": "298507C0E3DFC2011800D3CADDED0484",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"humidity\":36,\"temperature\":21}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-12 20:00:28.7390000"
+  },
+  {
+    "ID": "764407C0E3DFC2011800D3CADDED0484",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"humidity\":36,\"temperature\":21}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-12 19:30:25.7310000"
+  },
+  {
+    "ID": "0D0407C0E3DFC2011800D3CADDED0484",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"temperature\":21,\"humidity\":37}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-12 19:00:25.9660000"
+  },
+  {
+    "ID": "9AC306C0E3DFC2011800D3CADDED0484",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"humidity\":37,\"temperature\":22}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-12 18:30:27.4990000"
+  },
+  {
+    "ID": "3E8206C0E3DFC2011800D3CADDED0484",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"humidity\":37,\"temperature\":22}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-12 18:00:24.9910000"
+  },
+  {
+    "ID": "514006C0E3DFC2011800D3CADDED0484",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"humidity\":36,\"temperature\":22}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-12 17:30:24.2820000"
+  },
+  {
+    "ID": "9AFE05C0E3DFC2011800D3CADDED0484",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"temperature\":22,\"humidity\":36}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-12 17:00:25.4880000"
+  },
+  {
+    "ID": "C7BD05C0E3DFC2011800D3CADDED0484",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"temperature\":22,\"humidity\":37}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-12 16:30:25.1500000"
+  },
+  {
+    "ID": "627D05C0E3DFC2011800D3CADDED0484",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"temperature\":22,\"humidity\":38}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-12 16:00:25.7710000"
+  },
+  {
+    "ID": "F33C05C0E3DFC2011800D3CADDED0484",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"temperature\":22,\"humidity\":37}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-12 15:30:27.6830000"
+  },
+  {
+    "ID": "4AFC04C0E3DFC2011800D3CADDED0484",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"humidity\":37,\"temperature\":22}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-12 15:00:24.5820000"
+  },
+  {
+    "ID": "96BB04C0E3DFC2011800D3CADDED0484",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"humidity\":40,\"temperature\":22}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-12 14:30:24.9510000"
+  },
+  {
+    "ID": "177B04C0E3DFC2011800D3CADDED0484",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"humidity\":40,\"temperature\":22}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-12 14:00:26.2130000"
+  },
+  {
+    "ID": "543A04C0E3DFC2011800D3CADDED0484",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"humidity\":41,\"temperature\":22}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-12 13:30:24.9290000"
+  },
+  {
+    "ID": "C8F903C0E3DFC2011800D3CADDED0484",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"temperature\":22,\"humidity\":39}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-12 13:00:24.4090000"
+  },
+  {
+    "ID": "58B903C0E3DFC2011800D3CADDED0484",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"temperature\":23,\"humidity\":41}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-12 12:30:25.3380000"
+  },
+  {
+    "ID": "EB7803C0E3DFC2011800D3CADDED0484",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"temperature\":22,\"humidity\":42}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-12 12:00:26.4520000"
+  },
+  {
+    "ID": "593803C0E3DFC2011800D3CADDED0484",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"humidity\":38,\"temperature\":22}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-12 11:30:25.5410000"
+  },
+  {
+    "ID": "BCF702C0E3DFC2011800D3CADDED0484",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"temperature\":22,\"humidity\":36}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-12 11:00:23.9290000"
+  },
+  {
+    "ID": "30B702C0E3DFC2011800D3CADDED0484",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"temperature\":22,\"humidity\":37}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-12 10:30:25.2950000"
+  },
+  {
+    "ID": "987602C0E3DFC2011800D3CADDED0484",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"humidity\":36,\"temperature\":22}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-12 10:00:24.8910000"
+  },
+  {
+    "ID": "283602C0E3DFC2011800D3CADDED0484",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"humidity\":39,\"temperature\":22}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-12 09:30:26.6350000"
+  },
+  {
+    "ID": "C0F501C0E3DFC2011800D3CADDED0484",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"humidity\":39,\"temperature\":22}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-12 09:00:30.5510000"
+  },
+  {
+    "ID": "EFB401C0E3DFC2011800D3CADDED0484",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"humidity\":41,\"temperature\":22}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-12 08:30:26.0110000"
+  },
+  {
+    "ID": "E87301C0E3DFC2011800D3CADDED0484",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"temperature\":22,\"humidity\":41}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-12 08:00:24.3890000"
+  },
+  {
+    "ID": "553301C0E3DFC2011800D3CADDED0484",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"temperature\":22,\"humidity\":40}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-12 07:30:25.3270000"
+  },
+  {
+    "ID": "CEF200C0E3DFC2011800D3CADDED0484",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"humidity\":40,\"temperature\":22}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-12 07:00:25.2540000"
+  },
+  {
+    "ID": "2FB200C0E3DFC2011800D3CADDED0484",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"temperature\":21,\"humidity\":37}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-12 06:30:23.8010000"
+  },
+  {
+    "ID": "AE6F00C0E3DFC2011800D3CADDED0484",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"humidity\":38,\"temperature\":20}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-12 06:00:25.3480000"
+  },
+  {
+    "ID": "042C00C0E3DFC2011800D3CADDED0484",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"temperature\":20,\"humidity\":39}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-12 05:30:26.9440000"
+  },
+  {
+    "ID": "AA3F0B2096A67501180029BA67955E69",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"humidity\":39,\"temperature\":20}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-12 05:00:25.0800000"
+  },
+  {
+    "ID": "58FB082096A67501180029BA67955E69",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"temperature\":20,\"humidity\":38}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-12 00:30:25.3110000"
+  },
+  {
+    "ID": "F9BA082096A67501180029BA67955E69",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"temperature\":21,\"humidity\":40}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-12 00:00:24.9890000"
+  },
+  {
+    "ID": "C07A082096A67501180029BA67955E69",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"temperature\":21,\"humidity\":40}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-11 23:30:31.3250000"
+  },
+  {
+    "ID": "0C3A082096A67501180029BA67955E69",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"temperature\":21,\"humidity\":40}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-11 23:00:24.0170000"
+  },
+  {
+    "ID": "A6F9072096A67501180029BA67955E69",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"humidity\":42,\"temperature\":21}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-11 22:30:25.5050000"
+  },
+  {
+    "ID": "1BB9072096A67501180029BA67955E69",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"humidity\":41,\"temperature\":21}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-11 22:00:24.1890000"
+  },
+  {
+    "ID": "9878072096A67501180029BA67955E69",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"humidity\":42,\"temperature\":21}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-11 21:30:25.6090000"
+  },
+  {
+    "ID": "3938072096A67501180029BA67955E69",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"temperature\":21,\"humidity\":42}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-11 21:00:25.3840000"
+  },
+  {
+    "ID": "DFF7062096A67501180029BA67955E69",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"humidity\":42,\"temperature\":21}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-11 20:30:25.4370000"
+  },
+  {
+    "ID": "5EB7062096A67501180029BA67955E69",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"humidity\":42,\"temperature\":21}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-11 20:00:24.1440000"
+  },
+  {
+    "ID": "DD76062096A67501180029BA67955E69",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"temperature\":21,\"humidity\":41}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-11 19:30:25.9860000"
+  },
+  {
+    "ID": "3236062096A67501180029BA67955E69",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"humidity\":39,\"temperature\":21}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-11 19:00:23.8570000"
+  },
+  {
+    "ID": "9CF5052096A67501180029BA67955E69",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"temperature\":21,\"humidity\":39}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-11 18:30:24.3840000"
+  },
+  {
+    "ID": "21B5052096A67501180029BA67955E69",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"temperature\":21,\"humidity\":37}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-11 18:00:26.5830000"
+  },
+  {
+    "ID": "9774052096A67501180029BA67955E69",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"temperature\":21,\"humidity\":36}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-11 17:30:24.7950000"
+  },
+  {
+    "ID": "1234052096A67501180029BA67955E69",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"temperature\":21,\"humidity\":36}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-11 17:00:24.7250000"
+  },
+  {
+    "ID": "9EF3042096A67501180029BA67955E69",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"temperature\":21,\"humidity\":35}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-11 16:30:25.2130000"
+  },
+  {
+    "ID": "FAB2042096A67501180029BA67955E69",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"humidity\":36,\"temperature\":22}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-11 16:00:24.3250000"
+  },
+  {
+    "ID": "9772042096A67501180029BA67955E69",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"temperature\":22,\"humidity\":35}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-11 15:30:26.9420000"
+  },
+  {
+    "ID": "F131042096A67501180029BA67955E69",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"humidity\":35,\"temperature\":22}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-11 15:00:25.2530000"
+  },
+  {
+    "ID": "91F1032096A67501180029BA67955E69",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"temperature\":22,\"humidity\":35}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-11 14:30:25.3050000"
+  },
+  {
+    "ID": "FFB0032096A67501180029BA67955E69",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"temperature\":22,\"humidity\":35}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-11 14:00:27.0450000"
+  },
+  {
+    "ID": "4470032096A67501180029BA67955E69",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"temperature\":22,\"humidity\":36}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-11 13:30:24.6040000"
+  },
+  {
+    "ID": "B32F032096A67501180029BA67955E69",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"humidity\":36,\"temperature\":22}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-11 13:00:25.6630000"
+  },
+  {
+    "ID": "22EF022096A67501180029BA67955E69",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"temperature\":22,\"humidity\":37}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-11 12:30:27.7910000"
+  },
+  {
+    "ID": "7DAE022096A67501180029BA67955E69",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"humidity\":36,\"temperature\":21}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-11 12:00:26.7290000"
+  },
+  {
+    "ID": "FC6D022096A67501180029BA67955E69",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"temperature\":21,\"humidity\":36}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-11 11:30:25.5500000"
+  },
+  {
+    "ID": "8B2D022096A67501180029BA67955E69",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"humidity\":38,\"temperature\":21}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-11 11:00:26.8380000"
+  },
+  {
+    "ID": "14ED012096A67501180029BA67955E69",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"humidity\":37,\"temperature\":21}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-11 10:30:25.1370000"
+  },
+  {
+    "ID": "94AC012096A67501180029BA67955E69",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"humidity\":39,\"temperature\":21}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-11 10:00:25.4700000"
+  },
+  {
+    "ID": "EF6B012096A67501180029BA67955E69",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"humidity\":38,\"temperature\":21}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-11 09:30:25.2970000"
+  },
+  {
+    "ID": "7E2B012096A67501180029BA67955E69",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"humidity\":40,\"temperature\":21}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-11 09:00:27.3890000"
+  },
+  {
+    "ID": "CBEA002096A67501180029BA67955E69",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"temperature\":21,\"humidity\":36}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-11 08:30:24.6750000"
+  },
+  {
+    "ID": "F0A9002096A67501180029BA67955E69",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"temperature\":22,\"humidity\":38}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-11 08:00:23.8770000"
+  },
+  {
+    "ID": "2569002096A67501180029BA67955E69",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"humidity\":37,\"temperature\":22}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-11 07:30:23.8630000"
+  },
+  {
+    "ID": "8028002096A67501180029BA67955E69",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"humidity\":37,\"temperature\":21}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-11 07:00:27.3140000"
+  },
+  {
+    "ID": "BEBD09B03E6879001800B74A7DD4599D",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"temperature\":21,\"humidity\":43}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-09 00:30:24.4210000"
+  },
+  {
+    "ID": "5A7D09B03E6879001800B74A7DD4599D",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"temperature\":21,\"humidity\":43}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-09 00:00:24.0780000"
+  },
+  {
+    "ID": "053D09B03E6879001800B74A7DD4599D",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"temperature\":21,\"humidity\":43}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-08 23:30:26.4090000"
+  },
+  {
+    "ID": "AAFC08B03E6879001800B74A7DD4599D",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"temperature\":21,\"humidity\":44}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-08 23:00:25.3200000"
+  },
+  {
+    "ID": "42BC08B03E6879001800B74A7DD4599D",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"humidity\":43,\"temperature\":21}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-08 22:30:24.9500000"
+  },
+  {
+    "ID": "DB7B08B03E6879001800B74A7DD4599D",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"humidity\":45,\"temperature\":21}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-08 22:00:23.7070000"
+  },
+  {
+    "ID": "773B08B03E6879001800B74A7DD4599D",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"temperature\":21,\"humidity\":44}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-08 21:30:26.4540000"
+  },
+  {
+    "ID": "F3FA07B03E6879001800B74A7DD4599D",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"humidity\":42,\"temperature\":21}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-08 21:00:24.0310000"
+  },
+  {
+    "ID": "ADBA07B03E6879001800B74A7DD4599D",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"humidity\":42,\"temperature\":20}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-08 20:30:25.9390000"
+  },
+  {
+    "ID": "3B7A07B03E6879001800B74A7DD4599D",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"temperature\":21,\"humidity\":44}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-08 20:00:24.0010000"
+  },
+  {
+    "ID": "E03907B03E6879001800B74A7DD4599D",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"temperature\":21,\"humidity\":45}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-08 19:30:25.6620000"
+  },
+  {
+    "ID": "61F906B03E6879001800B74A7DD4599D",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"temperature\":21,\"humidity\":45}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-08 19:00:24.1280000"
+  },
+  {
+    "ID": "EEB806B03E6879001800B74A7DD4599D",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"humidity\":46,\"temperature\":21}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-08 18:30:24.4330000"
+  },
+  {
+    "ID": "607806B03E6879001800B74A7DD4599D",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"humidity\":47,\"temperature\":21}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-08 18:00:24.6390000"
+  },
+  {
+    "ID": "FF3706B03E6879001800B74A7DD4599D",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"humidity\":47,\"temperature\":21}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-08 17:30:26.4040000"
+  },
+  {
+    "ID": "66F705B03E6879001800B74A7DD4599D",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"humidity\":47,\"temperature\":21}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-08 17:00:25.2120000"
+  },
+  {
+    "ID": "F9B605B03E6879001800B74A7DD4599D",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"humidity\":47,\"temperature\":21}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-08 16:30:24.5700000"
+  },
+  {
+    "ID": "847605B03E6879001800B74A7DD4599D",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"humidity\":47,\"temperature\":22}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-08 16:00:24.6960000"
+  },
+  {
+    "ID": "E93505B03E6879001800B74A7DD4599D",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"temperature\":22,\"humidity\":46}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-08 15:30:24.1120000"
+  },
+  {
+    "ID": "77F504B03E6879001800B74A7DD4599D",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"temperature\":22,\"humidity\":47}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-08 15:00:26.6860000"
+  },
+  {
+    "ID": "EBB404B03E6879001800B74A7DD4599D",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"humidity\":47,\"temperature\":22}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-08 14:30:24.7400000"
+  },
+  {
+    "ID": "557404B03E6879001800B74A7DD4599D",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"humidity\":48,\"temperature\":22}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-08 14:00:25.1770000"
+  },
+  {
+    "ID": "C43304B03E6879001800B74A7DD4599D",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"humidity\":48,\"temperature\":22}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-08 13:30:25.1890000"
+  },
+  {
+    "ID": "A7F203B03E6879001800B74A7DD4599D",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"humidity\":49,\"temperature\":22}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-08 13:00:26.2610000"
+  },
+  {
+    "ID": "FCB003B03E6879001800B74A7DD4599D",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"temperature\":22,\"humidity\":49}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-08 12:30:26.7190000"
+  },
+  {
+    "ID": "9F6E03B03E6879001800B74A7DD4599D",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"temperature\":22,\"humidity\":50}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-08 12:00:25.9480000"
+  },
+  {
+    "ID": "1B2D03B03E6879001800B74A7DD4599D",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"temperature\":22,\"humidity\":49}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-08 11:30:23.8760000"
+  },
+  {
+    "ID": "72EC02B03E6879001800B74A7DD4599D",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"temperature\":22,\"humidity\":46}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-08 11:00:26.2580000"
+  },
+  {
+    "ID": "EEAB02B03E6879001800B74A7DD4599D",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"humidity\":45,\"temperature\":22}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-08 10:30:24.9160000"
+  },
+  {
+    "ID": "6D6B02B03E6879001800B74A7DD4599D",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"temperature\":22,\"humidity\":48}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-08 10:00:25.3680000"
+  },
+  {
+    "ID": "0B2B02B03E6879001800B74A7DD4599D",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"humidity\":48,\"temperature\":22}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-08 09:30:27.3390000"
+  },
+  {
+    "ID": "87EA01B03E6879001800B74A7DD4599D",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"temperature\":21,\"humidity\":47}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-08 09:00:29.3150000"
+  },
+  {
+    "ID": "D9A901B03E6879001800B74A7DD4599D",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"humidity\":50,\"temperature\":21}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-08 08:30:24.0880000"
+  },
+  {
+    "ID": "5B6901B03E6879001800B74A7DD4599D",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"humidity\":49,\"temperature\":21}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-08 08:00:26.8690000"
+  },
+  {
+    "ID": "E42801B03E6879001800B74A7DD4599D",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"humidity\":47,\"temperature\":21}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-08 07:30:25.5200000"
+  },
+  {
+    "ID": "5AE800B03E6879001800B74A7DD4599D",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"temperature\":21,\"humidity\":49}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-08 07:00:26.4250000"
+  },
+  {
+    "ID": "C4A600B03E6879001800B74A7DD4599D",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"humidity\":48,\"temperature\":21}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-08 06:30:24.8710000"
+  },
+  {
+    "ID": "856500B03E6879001800B74A7DD4599D",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"temperature\":21,\"humidity\":49}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-08 06:00:25.1060000"
+  },
+  {
+    "ID": "AC2400B03E6879001800B74A7DD4599D",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"humidity\":49,\"temperature\":21}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-08 05:30:24.4060000"
+  },
+  {
+    "ID": "0FFE0BD079DE26001800B436AC89566F",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"humidity\":50,\"temperature\":21}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-08 05:00:24.1730000"
+  },
+  {
+    "ID": "A3B909D079DE26001800B436AC89566F",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"humidity\":52,\"temperature\":21}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-08 00:30:25.5700000"
+  },
+  {
+    "ID": "5E7909D079DE26001800B436AC89566F",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"temperature\":21,\"humidity\":54}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-08 00:00:27.2960000"
+  },
+  {
+    "ID": "D33809D079DE26001800B436AC89566F",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"humidity\":53,\"temperature\":21}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-07 23:30:24.9320000"
+  },
+  {
+    "ID": "D7F808D079DE26001800B436AC89566F",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"temperature\":21,\"humidity\":53}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-07 23:00:35.9630000"
+  },
+  {
+    "ID": "CA7708D079DE26001800B436AC89566F",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"temperature\":21,\"humidity\":55}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-07 22:00:27.3030000"
+  },
+  {
+    "ID": "473708D079DE26001800B436AC89566F",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"temperature\":21,\"humidity\":53}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-07 21:30:24.8820000"
+  },
+  {
+    "ID": "D1F607D079DE26001800B436AC89566F",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"humidity\":50,\"temperature\":21}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-07 21:00:25.9510000"
+  },
+  {
+    "ID": "26B607D079DE26001800B436AC89566F",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"humidity\":51,\"temperature\":21}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-07 20:30:25.0190000"
+  },
+  {
+    "ID": "DD7507D079DE26001800B436AC89566F",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"humidity\":49,\"temperature\":21}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-07 20:00:27.2720000"
+  },
+  {
+    "ID": "473507D079DE26001800B436AC89566F",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"temperature\":21,\"humidity\":51}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-07 19:30:24.4920000"
+  },
+  {
+    "ID": "D9F406D079DE26001800B436AC89566F",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"humidity\":53,\"temperature\":21}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-07 19:00:24.7130000"
+  },
+  {
+    "ID": "6AB406D079DE26001800B436AC89566F",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"humidity\":57,\"temperature\":21}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-07 18:30:24.9000000"
+  },
+  {
+    "ID": "E87306D079DE26001800B436AC89566F",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"temperature\":21,\"humidity\":66}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-07 18:00:25.0190000"
+  },
+  {
+    "ID": "5D3306D079DE26001800B436AC89566F",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"humidity\":50,\"temperature\":21}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-07 17:30:24.5740000"
+  },
+  {
+    "ID": "E0F205D079DE26001800B436AC89566F",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"humidity\":49,\"temperature\":21}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-07 17:00:25.1650000"
+  },
+  {
+    "ID": "4BB205D079DE26001800B436AC89566F",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"temperature\":21,\"humidity\":48}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-07 16:30:24.7400000"
+  },
+  {
+    "ID": "B27105D079DE26001800B436AC89566F",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"temperature\":21,\"humidity\":48}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-07 16:00:27.7080000"
+  },
+  {
+    "ID": "223105D079DE26001800B436AC89566F",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"humidity\":48,\"temperature\":21}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-07 15:30:25.1440000"
+  },
+  {
+    "ID": "8BF004D079DE26001800B436AC89566F",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"humidity\":49,\"temperature\":21}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-07 15:00:25.0380000"
+  },
+  {
+    "ID": "FCAF04D079DE26001800B436AC89566F",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"humidity\":50,\"temperature\":21}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-07 14:30:26.6490000"
+  },
+  {
+    "ID": "4B6F04D079DE26001800B436AC89566F",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"humidity\":49,\"temperature\":22}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-07 14:00:25.0320000"
+  },
+  {
+    "ID": "AB2E04D079DE26001800B436AC89566F",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"temperature\":22,\"humidity\":50}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-07 13:30:25.0590000"
+  },
+  {
+    "ID": "1BEE03D079DE26001800B436AC89566F",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"humidity\":49,\"temperature\":22}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-07 13:00:24.9610000"
+  },
+  {
+    "ID": "8CAD03D079DE26001800B436AC89566F",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"temperature\":22,\"humidity\":50}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-07 12:30:26.7190000"
+  },
+  {
+    "ID": "D76C03D079DE26001800B436AC89566F",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"humidity\":49,\"temperature\":22}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-07 12:00:24.9450000"
+  },
+  {
+    "ID": "262C03D079DE26001800B436AC89566F",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"humidity\":49,\"temperature\":22}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-07 11:30:24.6590000"
+  },
+  {
+    "ID": "B3EB02D079DE26001800B436AC89566F",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"temperature\":22,\"humidity\":48}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-07 11:00:29.4570000"
+  },
+  {
+    "ID": "F5AA02D079DE26001800B436AC89566F",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"temperature\":22,\"humidity\":46}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-07 10:30:24.8640000"
+  },
+  {
+    "ID": "896A02D079DE26001800B436AC89566F",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"humidity\":46,\"temperature\":22}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-07 10:00:25.2260000"
+  },
+  {
+    "ID": "252A02D079DE26001800B436AC89566F",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"humidity\":45,\"temperature\":22}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-07 09:30:28.2350000"
+  },
+  {
+    "ID": "7FE901D079DE26001800B436AC89566F",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"temperature\":22,\"humidity\":50}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-07 09:00:25.0940000"
+  },
+  {
+    "ID": "DFA801D079DE26001800B436AC89566F",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"humidity\":49,\"temperature\":22}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-07 08:30:25.1740000"
+  },
+  {
+    "ID": "3F6801D079DE26001800B436AC89566F",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"temperature\":21,\"humidity\":48}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-07 08:00:24.7730000"
+  },
+  {
+    "ID": "C42701D079DE26001800B436AC89566F",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"humidity\":49,\"temperature\":21}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-07 07:30:27.7730000"
+  },
+  {
+    "ID": "ADD004B0C149D5FF170068BED9A4599E",
+    "DeviceID": "CCA904B0C149D5FF170068BED9A4599E",
+    "Message": "{\"temperature\":999,\"humidity\":999}",
+    "Status": null,
+    "Remarks": null,
+    "Timestamp": "2022-04-06 14:56:28.9200000"
+  }
+]
